@@ -2,5 +2,7 @@
 coding
 <!DOCTYPE html>
 <html>
-  
+  <Head>
+    Welcome
+  </Head>
 </html>
