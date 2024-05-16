@@ -3,8 +3,8 @@ coding
 <!DOCTYPE html>
 <html>
   <Head>
-    {
-    
+    h1{
+    font-weight:bold;
     }
     <h1>Welcome</h1>
   </Head>
